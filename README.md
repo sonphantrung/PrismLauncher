@@ -13,15 +13,25 @@
 # Downloads (Mediafire)
 
 [x86_64](https://www.mediafire.com/file/gici4k3uq8ud7ps/Prism+Launcher-x86_64.zip/file)
+
 [Linux-Portable](https://www.mediafire.com/file/uhfmn59bubp6ox2/PrismLauncher-Linux-Portable-5fcb9d2-Debug.zip/file)
+
 [Linux](https://www.mediafire.com/file/1vneqn2r13gzsmx/PrismLauncher-Linux-5fcb9d2-Debug.zip/file)
+
 [macOS-Legacy](https://www.mediafire.com/file/cx392mdchzgzq6e/PrismLauncher-macOS-Legacy-5fcb9d2-Debug.zip/file)
+
 [macOS](https://www.mediafire.com/file/dv11ismifi2zzr4/PrismLauncher-macOS-5fcb9d2-Debug.zip/file)
+
 [Windows-MinGW-w64-Setup](https://www.mediafire.com/file/14u4msdu75gprfg/PrismLauncher-Windows-MinGW-w64-Setup-5fcb9d2-Debug.zip/file)
+
 [Windows-MSVC-arm64-Portable](https://www.mediafire.com/file/fxxs5xi38bei9pv/PrismLauncher-Windows-MSVC-arm64-Portable-5fcb9d2-Debug.zip/file)
+
 [Windows-MSVC-arm64](https://www.mediafire.com/file/8arvuwhdxr2604t/PrismLauncher-Windows-MSVC-arm64-5fcb9d2-Debug.zip/file)
+
 [Windows-MSVC-Portable](https://www.mediafire.com/file/2fcg01rkools1u6/PrismLauncher-Windows-MSVC-Portable-5fcb9d2-Debug.zip/file)
+
 [Windows-MSVC-Setup](https://www.mediafire.com/file/9ep7mocb9dz2kgf/PrismLauncher-Windows-MSVC-Setup-5fcb9d2-Debug.zip/file)
+
 [Windows-MSVC](https://www.mediafire.com/file/aywccxxdahawhti/PrismLauncher-Windows-MSVC-5fcb9d2-Debug.zip/file)
 
 <hr>
